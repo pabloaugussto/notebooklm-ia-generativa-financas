@@ -1,5 +1,8 @@
 # Caderno Temático com NotebookLM – IA Generativa
 
+<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/b8c36a5c-aedd-4dfc-b345-feaff06f3a56" />
+
+
 ## Descrição do Projeto
 Este projeto foi desenvolvido como parte do desafio "Acelere sua Aprendizagem com IA", utilizando o NotebookLM como ferramenta de apoio ao estudo.
 
